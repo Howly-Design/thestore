@@ -87,6 +87,7 @@ header {
 .home-title {
     position: absolute;
     top: 30%;
+    width: auto;
 }
 
 .home-title h1 {
